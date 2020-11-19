@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">(ADM)Aquascape</string>
+    <string name="name">nama</string>
+    <string name="address">alamat</string>
+    <string name="price">harga</string>
+    <string name="empty_not_saved">Not Save</string>
+    <string name="home">Aquascape</string>
+    <string name="item_1">option</string>
+
+</resources>

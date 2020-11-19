@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "839141346635",
+    "firebase_url": "https://aquascape2.firebaseio.com",
+    "project_id": "aquascape2",
+    "storage_bucket": "aquascape2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839141346635:android:5c94dbcef56ec01c80ecce",
+        "android_client_info": {
+          "package_name": "com.aqua.aquascape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839141346635-f1e5lejjm47hhgdosda0krheadogptcb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aqua.aquascape",
+            "certificate_hash": "62ab5bcd3b94d85384b7787275153462d64691d7"
+          }
+        },
+        {
+          "client_id": "839141346635-1804isfbgmck6mcdlhfqrnohlqeqkq6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAei116LYpZ9iwYzJ83Vb8bUOBOEZkNnds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839141346635-1804isfbgmck6mcdlhfqrnohlqeqkq6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
